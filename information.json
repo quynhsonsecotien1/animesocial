@@ -1,0 +1,35 @@
+{
+  "id_app": "",
+  "times_clicked_iap": 5,
+  "times_clicked": 5,
+  "iap_info": [
+    {
+      "title": "No ads",
+      "detail": "Remove all ads"
+    },
+    {
+      "title": "Unlimited watch film",
+      "detail": "Watch all films with high quality"
+    }
+  ],
+  "ads_info": [
+    {
+      "id_app": "ca-app-pub-5372862349743986~6329217951",
+      "id_banner": "ca-app-pub-5372862349743986/1759417556",
+      "id_popup": "ca-app-pub-5372862349743986/7805951159",
+      "id_video": "",
+      "type": "admob"
+    },
+    {
+      "id_app": "3072596",
+      "type": "unity"
+    },
+    {
+      "id_app": "",
+      "id_banner": "332264817642894_332274984308544",
+      "id_popup": "332264817642894_332275334308509",
+      "id_native": "332264817642894_332268707642505",
+      "type": "facebook"
+    }
+  ]
+}
