@@ -1,0 +1,77 @@
+{
+      "genres": [
+       {
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/action.png",
+          "name": "Action",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Adventure.png",
+          "name": "Adventure",
+          "idgen": "Adventure"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/comedy.png",
+          "name": "Comedy",
+          "idgen": "Comedy"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/drama.png",
+          "name": "drama",
+          "idgen": "drama"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Fantasy.png",
+          "name": "Fantasy",
+          "idgen": "Fantasy"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Ecchi.png",
+          "name": "Ecchi",
+          "idgen": "Ecchi"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Horror.png",
+          "name": "Horror",
+          "idgen": "Horror"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Mecha.png",
+          "name": "Mecha",
+          "idgen": "Mecha"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Mystery.png",
+          "name": "Mystery",
+          "idgen": "Mystery"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Psychological.png",
+          "name": "Psychological",
+          "idgen": "Psychological"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Romance.png",
+          "name": "Romance",
+          "idgen": "Romance"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Mystery.png",
+          "name": "Mystery",
+          "idgen": "Mystery"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Romance.png",
+          "name": "Romance",
+          "idgen": "Romance"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Sci-Fi.png",
+          "name": "Sci-Fi",
+          "idgen": "Sci-Fi"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Shoujo.png",
+          "name": "Shoujo",
+          "idgen": "Shoujo"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Slice-of-Life.png",
+          "name": "Slice-of-Life",
+          "idgen": "Slice%20of%20Life"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Sports.png",
+          "name": "Sports",
+          "idgen": "Sports"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Thriller.png",
+          "name": "Thriller",
+          "idgen": "Thriller"
+        }
+      ]
+}
