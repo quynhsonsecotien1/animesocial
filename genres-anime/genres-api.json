@@ -1,0 +1,85 @@
+{
+      "genres": [
+       {
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/action.jpeg",
+          "name": "Action",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Adventure.jpeg",
+          "name": "Adventure",
+          "idgen": "Adventure"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Comedy.jpeg",
+          "name": "Comedy",
+          "idgen": "Comedy"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/drama.jpeg",
+          "name": "drama",
+          "idgen": "drama"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Fantasy.jpeg",
+          "name": "Fantasy",
+          "idgen": "Fantasy"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Historical.jpeg",
+          "name": "Ecchi",
+          "idgen": "Ecchi"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Horror.jpeg",
+          "name": "Horror",
+          "idgen": "Horror"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Josei.jpeg",
+          "name": "Josei",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Magic.jpg",
+          "name": "Magic",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Josei.jpeg",
+          "name": "Josei",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Martial Arts.jpeg",
+          "name": "Martial Arts",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Mystery.jpeg",
+          "name": "Mystery",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Romance.jpeg",
+          "name": "Romance",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/School Life.jpeg",
+          "name": "School Life",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Shoujo.jpeg",
+          "name": "Shoujo",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/School Life.jpeg",
+          "name": "School Life",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Shounen.jpeg",
+          "name": "Shounen",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Super Power.jpeg",
+          "name": "Super Power",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Supernatural.jpeg",
+          "name": "Supernatural",
+          "idgen": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Tragedy.jpeg",
+          "name": "Tragedy",
+          "idgen": "Action"
+        }
+      ]
+}
