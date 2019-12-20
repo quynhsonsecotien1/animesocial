@@ -1,51 +1,51 @@
 {
       "genres": [
        {
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/action.jpeg",
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Action.png",
           "name": "Action",
           "idgen": "Action"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Adventure.jpeg",
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Adventure.png",
           "name": "Adventure",
           "idgen": "Adventure"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Comedy.jpeg",
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Comedy.png",
           "name": "Comedy",
           "idgen": "Comedy"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/drama.jpeg",
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/drama.png",
           "name": "drama",
           "idgen": "drama"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Fantasy.jpeg",
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Fantasy.png",
           "name": "Fantasy",
           "idgen": "Fantasy"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Historical.jpeg",
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Ecchi.png",
           "name": "Ecchi",
           "idgen": "Ecchi"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Horror.jpeg",
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Horror.png",
           "name": "Horror",
           "idgen": "Horror"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Josei.jpeg",
-          "name": "Josei",
-          "idgen": "Action"
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Adventure.png",
+          "name": "Mecha",
+          "idgen": "Mecha"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Magic.jpg",
-          "name": "Magic",
-          "idgen": "Action"
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Adventure.png",
+          "name": "Mystery",
+          "idgen": "Mystery"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Josei.jpeg",
-          "name": "Josei",
-          "idgen": "Action"
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Adventure.png",
+          "name": "Psychological",
+          "idgen": "Psychological"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Martial Arts.jpeg",
-          "name": "Martial Arts",
-          "idgen": "Action"
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Adventure.png",
+          "name": "Romance",
+          "idgen": "Romance"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Mystery.jpeg",
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Adventure.png",
           "name": "Mystery",
           "idgen": "Action"
         },{
@@ -54,32 +54,24 @@
           "idgen": "Action"
         },{
           "image": "https://raw.githubusercontent.com/masterprohd/data/master/School Life.jpeg",
-          "name": "School Life",
-          "idgen": "Action"
+          "name": "Sci-Fi",
+          "idgen": "Sci-Fi"
         },{
           "image": "https://raw.githubusercontent.com/masterprohd/data/master/Shoujo.jpeg",
           "name": "Shoujo",
-          "idgen": "Action"
+          "idgen": "Shoujo"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/School Life.jpeg",
-          "name": "School Life",
-          "idgen": "Action"
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Slice-of-Life.jpeg",
+          "name": "Slice-of-Life",
+          "idgen": "Slice%20of%20Life"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Shounen.jpeg",
-          "name": "Shounen",
-          "idgen": "Action"
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Sports.jpeg",
+          "name": "Sports",
+          "idgen": "Sports"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Super Power.jpeg",
-          "name": "Super Power",
-          "idgen": "Action"
-        },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Supernatural.jpeg",
-          "name": "Supernatural",
-          "idgen": "Action"
-        },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Tragedy.jpeg",
-          "name": "Tragedy",
-          "idgen": "Action"
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Thriller.jpeg",
+          "name": "Thriller",
+          "idgen": "Thriller"
         }
       ]
 }
