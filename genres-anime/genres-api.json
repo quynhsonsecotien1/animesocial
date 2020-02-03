@@ -72,6 +72,19 @@
           "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/Thriller.png",
           "name": "Thriller",
           "idgen": "Thriller"
-        }
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/MahouShoujo.png",
+          "name": "MahouShoujo",
+          "idgen": "MahouShoujo"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/supernatural.png",
+          "name": "supernatural",
+          "idgen": "supernatural"
+        },{
+          "image": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/genres-anime/music.png",
+          "name": "music",
+          "idgen": "music"
+        },
+        
       ]
 }
